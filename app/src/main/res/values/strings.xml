@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">LifeCycle Activity</string>
+    <string name="hello_message">Test App!</string>
+</resources>
